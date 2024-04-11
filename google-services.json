@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "383729121684",
+      "project_id": "area-376015",
+      "storage_bucket": "area-376015.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:383729121684:android:c975f4d0eb3b07e6e97781",
+          "android_client_info": {
+            "package_name": "com.areamobile"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "383729121684-igf9q5e261rtp71o1gdf0nb7k2ug5lcs.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.areamobile",
+              "certificate_hash": "2101e47e118b7863458d1062f14b495ca7964310"
+            }
+          },
+          {
+            "client_id": "383729121684-gr660vp2spl1mgv38fgqlklrobbfmb26.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCoOF18VliTLeAaZRAxVo_tvDWwYyhD83A"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "383729121684-gr660vp2spl1mgv38fgqlklrobbfmb26.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
