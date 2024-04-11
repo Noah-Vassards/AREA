@@ -1,5 +1,5 @@
 # AREA
-IFTTT like project - events on tiers clients
+IFTTT like project - events on third party clients
 
 # Description
 
